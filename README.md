@@ -1,16 +1,2 @@
-#udemy clone
-
-A simple Udemy Clone website built using HTML5 and CSS3. This project recreates the basic layout and design of the Udemy homepage to practice front-end web development skills.
-
-Features
-Responsive navigation bar
-Hero/banner section
-Course categories
-Featured course cards
-Footer section
-Clean and modern user interface
-Technologies Used
-HTML5
-CSS3
-Purpose
-The goal of this project is to strengthen my understanding of HTML and CSS by building a real-world website layout. It focuses on creating a structured, visually appealing, and responsive web page using only basic front-end technologies.
+Udemy
+About Me Hello! My name is Selvamani. I am a BCA graduate and an aspiring Full Stack Web Developer. I enjoy learning web development and building simple, responsive websites using HTML and CSS. I am currently improving my JavaScript and Python skills. My goal is to become a professional software developer and create useful web applications. Portfolio Description This is my personal portfolio website. It showcases my skills, projects, education, and contact information. I designed and developed this website using HTML and CSS to practice front-end web development. It is simple, clean, responsive, and easy to use. Skills HTML CSS JavaScript (Learning) Python (Beginner) Responsive Web Design Objective I am passionate about learning new technologies and improving my programming skills every day. I am looking for opportunities to gain experience, work on real-world projects, and grow as a web developer.
