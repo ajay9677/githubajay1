@@ -1,4 +1,5 @@
-Udemy Clone
+#udemy clone
+
 A simple Udemy Clone website built using HTML5 and CSS3. This project recreates the basic layout and design of the Udemy homepage to practice front-end web development skills.
 
 Features
